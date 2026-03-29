@@ -1,0 +1,15 @@
+{
+  "rootDir": "dist",
+  "scriptId": "...add scriptId here...",
+  "projectId": "default",
+  "scriptExtensions": [
+    ".js",
+    ".gs"
+  ],
+  "htmlExtensions": [
+    ".html"
+  ],
+  "jsonExtensions": [
+    ".json"
+  ]
+}
