@@ -5,6 +5,8 @@ This is a template for building Google Apps Script projects using TypeScript, Sv
 More info can be found here:
 https://developers.google.com/apps-script/guides/typescript
 
+![Demo of template showing dialog and server interaction](./demo.gif)
+
 ## Development
 
 You will need to install the clasp tooling (@google/clasp)
