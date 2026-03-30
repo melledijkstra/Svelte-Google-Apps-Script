@@ -59,3 +59,9 @@ The example "about" dialog contains a simple Svelte component that interacts wit
 You can find an example of a Storybook story in the `src/stories` folder. This is a great way to develop and test your UI components in isolation before integrating them into your dialogs and speed up development.
 
 Building applications for Google Apps Script can be a bit tricky, especially when it comes to testing and debugging. Storybook allows you to create a visual representation of your components and test them in isolation, which can help you catch issues early on and ensure that your UI is working as expected.
+
+## Acknowledgements
+
+This template was inspired and adapted from the React Google Apps Script template created by
+[@enuchi](https://github.com/enuchi/), which can be found here:
+[React-Google-Apps-Script](https://github.com/enuchi/React-Google-Apps-Script)
